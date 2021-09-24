@@ -72,7 +72,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram RXCE_GffcccfcfffHACKER")
+        print("Contact me on telegram 0,3,8,6")
         print("Enter ",newperiod," Bcone Price :")
         current=input()
         current=int(current)
@@ -162,7 +162,7 @@ if(expirydate>today):
         #print("5 Sept 2021, 06:37 PM- 08:30 AM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @RXCE_HVxddffffffACKER ")
+        print(" admin on telegram @0,3,8  ")
         (" Channel join krle bhosdke馃榿 @RXCE_HACGffffffffKER ")
 
 
